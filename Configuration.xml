@@ -216,6 +216,8 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<SessionParameter>ТекущийПользователь</SessionParameter>
+			<Role>ПолныеПрава</Role>
+			<Role>ПраваИгрока</Role>
 			<CommonModule>БиблиотекаАлгоритмов</CommonModule>
 			<Catalog>КаталогИгр</Catalog>
 			<Catalog>Игроки</Catalog>

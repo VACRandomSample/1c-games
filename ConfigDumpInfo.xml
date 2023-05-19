@@ -1,24 +1,28 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.15">
 	<ConfigVersions>
-		<Metadata name="Catalog.Игроки" id="4801c21d-a88f-4e2a-a5d2-c5d1fb09b30f" configVersion="cbf7090a90dae742abbd43d329d4085100000000">
+		<Metadata name="Catalog.Игроки" id="4801c21d-a88f-4e2a-a5d2-c5d1fb09b30f" configVersion="e8c8ecd86d5c6342b012c5aaa5d1872500000000">
 			<Metadata name="Catalog.Игроки.TabularSection.Результаты.Attribute.Игра" id="2e31b0c1-bdbd-4ae1-af9e-ebed7e18c66c"/>
 			<Metadata name="Catalog.Игроки.TabularSection.Результаты.Attribute.Рекорд" id="799d904b-d4f1-4b8d-97a5-358b6114ae0c"/>
 			<Metadata name="Catalog.Игроки.TabularSection.Результаты" id="d45d210d-6356-4723-b897-a3fde986baeb"/>
 		</Metadata>
-		<Metadata name="Catalog.КаталогИгр" id="662228b5-d731-4cc5-89b3-cdc8b060a563" configVersion="bc432fa342d48347a3b4c4a1f1ac9dc100000000">
+		<Metadata name="Catalog.КаталогИгр" id="662228b5-d731-4cc5-89b3-cdc8b060a563" configVersion="e49cb6416620b94e9ee60dde9288302300000000">
 			<Metadata name="Catalog.КаталогИгр.Attribute.СтрокаЗапуска" id="43de3993-e1ac-461f-bad6-e41da308ab2f"/>
 		</Metadata>
-		<Metadata name="Catalog.КаталогИгр.Form.ФормаЭлемента" id="f92e0028-930f-4e35-a820-1daa8bca6eb0" configVersion="8d75f053b6b1214986b92bff4c97969300000000"/>
-		<Metadata name="Catalog.КаталогИгр.Form.ФормаЭлемента.Form" id="f92e0028-930f-4e35-a820-1daa8bca6eb0.0" configVersion="8517144f7968d04998f31bd43aa723c500000000"/>
-		<Metadata name="Configuration.Конфигурация" id="6b8afd9f-833f-473f-b186-b17f0f7fb273" configVersion="f28b29d671a16e4e92f22eddbe4e153d00000000"/>
-		<Metadata name="DataProcessor.ИграЦифры" id="84d68bb8-a85d-424c-965f-c62abd6e12bf" configVersion="e3b9e352817b4d47a0cfe762eeaa332600000000"/>
-		<Metadata name="DataProcessor.ИграЦифры.Form.Форма" id="db429203-43c9-45e1-8df6-2f73babe9e17" configVersion="5213013c2243174392939c860966a71400000000"/>
-		<Metadata name="DataProcessor.ИграЦифры.Form.Форма.Form" id="db429203-43c9-45e1-8df6-2f73babe9e17.0" configVersion="94978866f0945748ab8d928bd2221ea200000000"/>
-		<Metadata name="DataProcessor.ИграЦифры.Help" id="84d68bb8-a85d-424c-965f-c62abd6e12bf.1" configVersion="72739eebd88d0442acc4779ded4036bb00000000"/>
-		<Metadata name="DataProcessor.НашСапер" id="f7327871-50c0-4f87-a101-5241fff1f9c9" configVersion="db3d716c1110364cad86a5ddae67284a00000000"/>
-		<Metadata name="DataProcessor.НашСапер.Form.Форма" id="a79b4de1-2140-41c8-8474-5a21a3f8f7c1" configVersion="32d56f60a59b8842883a567304e3aa5000000000"/>
-		<Metadata name="DataProcessor.НашСапер.Form.Форма.Form" id="a79b4de1-2140-41c8-8474-5a21a3f8f7c1.0" configVersion="938e641abcc782428d8cd1a008d5dc6b00000000"/>
-		<Metadata name="Language.Русский" id="fa6861aa-12c6-4d1d-9c7b-0e6fb1732da5" configVersion="49366026e670584e9e2fecba38a7c1fa00000000"/>
+		<Metadata name="Catalog.КаталогИгр.Form.ФормаЭлемента" id="f92e0028-930f-4e35-a820-1daa8bca6eb0" configVersion="ddd41271db79934ebb9e867c5e938bcc00000000"/>
+		<Metadata name="Catalog.КаталогИгр.Form.ФормаЭлемента.Form" id="f92e0028-930f-4e35-a820-1daa8bca6eb0.0" configVersion="e4580b5737377542ad11fa901535dcc700000000"/>
+		<Metadata name="CommonModule.БиблиотекаАлгоритмов" id="6b023be8-19b4-4ee0-99c2-41eb0508d3e4" configVersion="4f62e94b1c4a94489d461adb7e15975500000000"/>
+		<Metadata name="CommonModule.БиблиотекаАлгоритмов.Module" id="6b023be8-19b4-4ee0-99c2-41eb0508d3e4.0" configVersion="be96d90e3bb33443821900d697049be000000000"/>
+		<Metadata name="Configuration.Конфигурация" id="6b8afd9f-833f-473f-b186-b17f0f7fb273" configVersion="269ff8bf9319394caa2a220a422eb10d00000000"/>
+		<Metadata name="Configuration.Конфигурация.ManagedApplicationModule" id="47c2e8cf-8e54-45bc-9162-cf77828e7a3a.6" configVersion="22be2e7fc0f6de43b72a173a4872746f00000000"/>
+		<Metadata name="DataProcessor.ИграЦифры" id="84d68bb8-a85d-424c-965f-c62abd6e12bf" configVersion="b4a457342a17534d9a6b7302e23f797400000000"/>
+		<Metadata name="DataProcessor.ИграЦифры.Form.Форма" id="db429203-43c9-45e1-8df6-2f73babe9e17" configVersion="157fd31f1e4c8645959f54eff113ca7500000000"/>
+		<Metadata name="DataProcessor.ИграЦифры.Form.Форма.Form" id="db429203-43c9-45e1-8df6-2f73babe9e17.0" configVersion="cddcdb633f4ae7499620b6e6a81e0d5000000000"/>
+		<Metadata name="DataProcessor.ИграЦифры.Help" id="84d68bb8-a85d-424c-965f-c62abd6e12bf.1" configVersion="9966854fc6cec84391934c35eb7044a700000000"/>
+		<Metadata name="DataProcessor.НашСапер" id="f7327871-50c0-4f87-a101-5241fff1f9c9" configVersion="7302035d6c6b114eaf7d209225cc4d7b00000000"/>
+		<Metadata name="DataProcessor.НашСапер.Form.Форма" id="a79b4de1-2140-41c8-8474-5a21a3f8f7c1" configVersion="0d417b23acd43249bb6222c9808b555700000000"/>
+		<Metadata name="DataProcessor.НашСапер.Form.Форма.Form" id="a79b4de1-2140-41c8-8474-5a21a3f8f7c1.0" configVersion="6b666ef63690b748acfba5028e25e2f900000000"/>
+		<Metadata name="Language.Русский" id="fa6861aa-12c6-4d1d-9c7b-0e6fb1732da5" configVersion="735c6b45692ec2469d3bc89218f29b1900000000"/>
+		<Metadata name="SessionParameter.ТекущийПользователь" id="70aa193d-54e8-485a-8ab8-f5d7c42afba1" configVersion="e896e3b90e25ff44981c00bf07b3ec7b00000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

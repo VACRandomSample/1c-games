@@ -215,6 +215,8 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<SessionParameter>ТекущийПользователь</SessionParameter>
+			<CommonModule>БиблиотекаАлгоритмов</CommonModule>
 			<Catalog>КаталогИгр</Catalog>
 			<Catalog>Игроки</Catalog>
 			<DataProcessor>ИграЦифры</DataProcessor>
